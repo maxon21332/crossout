@@ -1,3 +1,0 @@
-﻿  Loveis2.cpp
-D:\Laboratorny\Loveis\Loveis2\Loveis2.cpp(23,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Loveis2.vcxproj -> D:\Laboratorny\Loveis\Loveis2\Debug\Loveis2.exe
