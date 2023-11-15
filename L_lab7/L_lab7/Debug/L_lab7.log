@@ -1,0 +1,31 @@
+﻿Построение начато 15.11.2023 17:54:34.
+     1>Проект "C:\Users\student\Desktop\lab7777\L_lab7\L_lab7\L_lab7.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\L_lab7.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\L_lab7.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt L_lab7.cpp
+         L_lab7.cpp
+     1>c:\users\student\desktop\lab7777\l_lab7\l_lab7\l_lab7.cpp(25): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\student\desktop\lab7777\l_lab7\l_lab7\l_lab7.cpp(74): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>c:\users\student\desktop\lab7777\l_lab7\l_lab7\l_lab7.cpp(149): warning C4018: <: несоответствие типов со знаком и без знака
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\student\Desktop\lab7777\L_lab7\Debug\L_lab7.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\L_lab7.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\student\Desktop\lab7777\L_lab7\Debug\L_lab7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\student\Desktop\lab7777\L_lab7\Debug\L_lab7.lib" /MACHINE:X86 Debug\L_lab7.exe.embed.manifest.res
+         Debug\L_lab7.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\L_lab7.exe.embed.manifest" /manifest Debug\L_lab7.exe.intermediate.manifest
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         L_lab7.vcxproj -> C:\Users\student\Desktop\lab7777\L_lab7\Debug\L_lab7.exe
+       FinalizeBuildStatus:
+         Файл "Debug\L_lab7.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\L_lab7.lastbuildstate".
+     1>Построение проекта "C:\Users\student\Desktop\lab7777\L_lab7\L_lab7\L_lab7.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.96
