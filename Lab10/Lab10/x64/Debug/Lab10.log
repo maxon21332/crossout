@@ -1,0 +1,4 @@
+﻿  Lab10.cpp
+D:\Users\loviz\Lab10\Lab10\Lab10.cpp(61,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Users\loviz\Lab10\Lab10\Lab10.cpp(63,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab10.vcxproj -> D:\Users\loviz\Lab10\x64\Debug\Lab10.exe
